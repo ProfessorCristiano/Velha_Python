@@ -250,7 +250,7 @@ def verifica():
             vencedor.insert(0, "Jogador 1 com X")
             bt3.configure(text= tabela[2], fg="red", bg="yellow")
             bt5.configure(text= tabela[4], fg="red", bg="yellow")
-            bt6.configure(text= tabela[6], fg="red", bg="yellow")
+            bt7.configure(text= tabela[6], fg="red", bg="yellow")
             fim=1
         else:
             if (tabela[2]=="O"):
