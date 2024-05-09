@@ -6,6 +6,7 @@ Created on Thu Feb 28 20:35:34 2019
 """
 
 from tkinter import *
+from tkinter import messagebox
 
 window = Tk()
 window.title("Jogo da Velha")
